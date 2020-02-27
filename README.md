@@ -50,7 +50,7 @@ Script could be run from the docker container. Docker should be installed.
 ```
 ##  Docker Hub:
 ```
-ht<span>tps://</span>hub.docker.com/r/okyktenko/sys_metrics  
+https://hub.docker.com/r/okyktenko/sys_metrics  
 ```
 ##  Before run:
 ```
