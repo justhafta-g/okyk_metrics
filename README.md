@@ -20,12 +20,12 @@ psutil
 
 git clone https://github.com/wbdevops/okyk_metrics.git
 sudo apt install python3-pip
-```
+
 ## CPU Metrics:
 ### Sample output:
-
+``
 python sys_mertrics.py cpu
- 
+`` 
   system.cpu.idle 78.8
   system.cpu.user 17.3
   system.cpu.guest 0.0
@@ -35,9 +35,9 @@ python sys_mertrics.py cpu
 
 ## Memory Metrics:
 ### Sample output:
-
+``
 python sys_metrics.py mem
-
+```
  virtual total 16712351744
  virtual used 9190146048
  virtual free 1391624192
@@ -52,7 +52,7 @@ Script could be run from the docker container. Docker should be installed.
 
 ##  Docker Hub:
 
-https://hub.docker.com/r/okyktenko/sys_metrics  
+ht<span>tps://</span>hub.docker.com/r/okyktenko/sys_metrics  
 
 ##  Before run:
 
