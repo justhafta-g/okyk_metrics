@@ -20,6 +20,7 @@ Script prints basic information about OS to console.
 ```
  git clone https://github.com/wbdevops/okyk_metrics.git
  sudo apt install python3-pip
+ sudo pip3 install psutil
 ```
 ## CPU Metrics:
 ### Sample output:
