@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 
 import sys
 import psutil
@@ -27,6 +27,6 @@ elif metric_type == "cpu":
 	print ("system.cpu.stolen", cpu.steal)
 	print ("system.cpu.system", cpu.system)
 else:
-	print ("Argumet is not define, use mem or cpu!")
+	print ("Argument is not define, use mem or cpu!")
 
 
