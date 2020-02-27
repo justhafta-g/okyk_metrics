@@ -19,6 +19,7 @@ Script prints basic information about OS to console.
 ## Installation:
 ```
  git clone https://github.com/wbdevops/okyk_metrics.git
+ sudo apt install python3 
  sudo apt install python3-pip
  sudo pip3 install psutil
 ```
